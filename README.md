@@ -20,4 +20,4 @@ To test the code, PyCharm was used with Anaconda Prompt properly configured.
 
 -Be able to carry out an automatic search on a certain topic, for example, telomeres.
 
-In the future, it would be interesting to have a code that carried out automatic searches on the most recent scientific advances and that always presented the information in an up-to-date manner.
+In the future, it would be interesting to have a program that performs automated searches on the latest scientific advancements and consistently presents up-to-date information.
