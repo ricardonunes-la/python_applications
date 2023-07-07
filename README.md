@@ -10,7 +10,17 @@ To test the code, PyCharm was used with Anaconda Prompt properly configured.
 
 **Description of the objectives of each code and ideas for future projects**
 
-1. *search_google.py*
+1. *hello_world.py*
+
+-First application in Python
+
+-Invoking methods
+
+-User input of text
+
+-Printing text
+
+2. *search_google.py*
 
 -Use an API
 
