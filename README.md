@@ -70,3 +70,7 @@ In the future, it would be interesting to have a program that performs automated
 -Pre-built mathematical functions
 
 -Calculation examples
+
+9. *files.py*
+
+-Demonstrate the basic operations of opening, writing to and reading from a file using the built-in file methods in Python
