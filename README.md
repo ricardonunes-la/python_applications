@@ -61,4 +61,12 @@ In the future, it would be interesting to have a program that performs automated
 
 7. *classes.py*
 
--Provide a practical demonstration of key concepts related to classes, inheritance, method overriding and polymorphism 
+-Provide a practical demonstration of key concepts related to classes, inheritance, method overriding and polymorphism
+
+8. *modules.py*
+
+-Importing the math module
+
+-Pre-built mathematical functions
+
+-Calculation examples
