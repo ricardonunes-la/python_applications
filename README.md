@@ -6,7 +6,7 @@ A repository dedicated to taking the first steps in Python programming. Here you
 **Prerequisites and installation instructions**
 
 To test the code, PyCharm was used with Anaconda Prompt properly configured.
-
+Alternatively Visual Studio Code was also used.
 
 **Description of the objectives of each code and ideas for future projects**
 
