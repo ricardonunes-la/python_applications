@@ -43,3 +43,7 @@ In the future, it would be interesting to have a program that performs automated
 -Local and global variable scopes
 
 -Deletion of variables
+
+4. *functions.py*
+
+-Usage of functions with arguments, default values, return values and variable-length arguments
