@@ -54,4 +54,6 @@ In the future, it would be interesting to have a program that performs automated
 
 -Usage of a ternary conditional operator for a concise statement
 
+6. *loops.py*
 
+-Usage of different types of loops, including while, for and for with enumerate()
