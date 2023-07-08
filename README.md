@@ -31,3 +31,15 @@ To test the code, PyCharm was used with Anaconda Prompt properly configured.
 -Be able to carry out an automatic search on a certain topic, for example, telomeres.
 
 In the future, it would be interesting to have a program that performs automated searches on the latest scientific advancements and consistently presents up-to-date information.
+
+3. *variables.py*
+
+-Variable usage and initialization
+
+-Variable reassignment
+
+-Concatenation of different types
+
+-Local and global variable scopes
+
+-Deletion of variables
