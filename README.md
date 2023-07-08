@@ -58,3 +58,7 @@ In the future, it would be interesting to have a program that performs automated
 6. *loops.py*
 
 -Usage of different types of loops, including while, for and for with enumerate()
+
+7. *classes.py*
+
+-Provide a practical demonstration of key concepts related to classes, inheritance, method overriding and polymorphism 
