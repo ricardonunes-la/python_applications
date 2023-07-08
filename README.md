@@ -47,3 +47,11 @@ In the future, it would be interesting to have a program that performs automated
 4. *functions.py*
 
 -Usage of functions with arguments, default values, return values and variable-length arguments
+
+5. *conditionals.py*
+
+-Usage of conditional statements to compare two numbers and determine their relationship
+
+-Usage of a ternary conditional operator for a concise statement
+
+
